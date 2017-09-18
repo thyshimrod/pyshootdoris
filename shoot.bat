@@ -1,0 +1,1 @@
+c:\python25\python shoot.py
